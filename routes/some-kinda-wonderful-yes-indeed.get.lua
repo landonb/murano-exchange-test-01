@@ -1,0 +1,1 @@
+--#ENDPOINT GET /some/kinda/wonderful/yes/indeed
